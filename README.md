@@ -13,7 +13,7 @@ The bottleneck is not demand. It is **prep skill, food-code compliance, and loca
 ## Read this first
 
 1. [Working model](docs/working-model.md) — opportunity, product, operations, legal, go-to-market, 90-day plan
-2. [Visual mockup](docs/visual-mockup.md) — cart layout, cup, and a day on the pad
+2. [Visual mockup](docs/visual-mockup.md) — cart layout, cup, tools, and a day on the pad
 3. [First market](docs/first-market.md) — why San Antonio, not Houston or Austin, for cart one
 4. [Unit economics](docs/unit-economics.md) — cup cost, daily P&L, startup budget
 5. [Machine spec](docs/machine-spec.md) — buy now vs. invent later

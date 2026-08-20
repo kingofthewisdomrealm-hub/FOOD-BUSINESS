@@ -162,7 +162,7 @@ Estimated prototype spend: **$2,000–$6,000**. Estimated commercial-tooling + l
 | Tool | Where | Why |
 | --- | --- | --- |
 | Pineapple corer | Commissary | Heavy, tall, suction feet, messy |
-| Melon wedger | Commissary | Messy, needs space |
+| 12" chef (melon rind) | Commissary | Yield is the knife, not a wedger |
 | Stick cutter | Commissary **or** cart | Small enough for cart if you want visible sticks |
 | Mango jig (future) | Cart if small and cleanable; else commissary | Visible mango cut is content |
 | Chef’s knife | Both | Finishing, trim, lime |
@@ -177,7 +177,7 @@ The customer should still **see fruit being finished**. If every spear is pre-cu
 | Phase | Machine work |
 | --- | --- |
 | Days 1–30 | Knife + cheap corer. Prove cups. |
-| Days 31–60 | Buy Nemco pineapple corer + stick cutter if pineapple/jícama are the delay |
+| Days 31–60 | Buy Nemco 55775 pineapple corer + 55450-3 1/2" FryKutter if pineapple/jícama are the delay |
 | After profitable cart | Prototype mango cheek jig |
 | After two carts | Consider NSF listing and a second-operator training video based on the jig |
 
