@@ -29,7 +29,7 @@ The bottleneck is not demand. It is **prep skill, food-code compliance, and loca
 | Cup COGS | about $3.20 |
 | Gross margin | about 68% |
 | Launch path | commissary pop-up first, permitted cart second |
-| Capital to a legal cart | $15,000–$30,000 |
+| Capital to a legal cart | Path 1 pop-up ~$2,400; used cart all-in ~$23,000 ($16k–$31k) |
 
 San Antonio wins cart one on produce (Zarzamora terminal + SAWPM on Loop 410) and commissary cost (~$250–$500/month). Texas DSHS Type II statewide licensing started **1 July 2026**; the city still controls where you park. Swap the city later; the cup and the math stay the same.
 

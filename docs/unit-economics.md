@@ -84,39 +84,88 @@ Do not model 100 cups as the base case. Model **40**. Treat 60 as the goal. Trea
 
 ## 4. Startup budget
 
-### Path 1 — 30-day pop-up (prove demand)
+**Plan column** is what to hold in the account. Low/high is the band if quotes come in cheap or ugly. Inventory lines assume the **40 cups/day** planning day; scale them if you test at 25 or 60.
 
-| Item | Low | High |
-| --- | --- | --- |
-| LLC, tax, food handler / manager | $200 | $500 |
-| Commissary kitchen hours (not a cart berth) | $300 | $800 |
-| Farmers market / pop-up fees | $100 | $400 |
-| Knives, boards, cambros, ice chests | $250 | $600 |
-| Packaging + first produce | $250 | $500 |
-| Insurance (event / short-term) | $150 | $400 |
-| Sign, umbrella, table | $150 | $400 |
-| **Total** | **$1,400** | **$3,600** |
+These are **planning numbers**, not invoices. DSHS fees are published. The cart quote is the one that moves.
+
+### Path 1 — 30-day pop-up (prove demand)
 
 This is the only spend that should happen before cups are selling.
 
+| Item | Low | Plan | High |
+| --- | --- | --- | --- |
+| Texas LLC (Form 205) | $300 | $308 | $308 |
+| EIN + Texas sales tax permit | $0 | $0 | $0 |
+| Food handler (DSHS-accredited) | $10 | $15 | $15 |
+| Certified food manager | $85 | $125 | $180 |
+| Farmers market / pop-up booth | $100 | $250 | $400 |
+| Event / short-term liability | $150 | $275 | $400 |
+| Commissary kitchen hours (not a cart berth) | $300 | $500 | $800 |
+| Knives, boards, cambros, ice chests | $250 | $400 | $600 |
+| Sign, umbrella, folding table | $150 | $250 | $400 |
+| Square reader | $0 | $49 | $59 |
+| Test produce + packaging (2 days × 40 cups × COGS) | $226 | $256 | $280 |
+| **Total** | **~$1,600** | **~$2,400** | **~$3,400** |
+
+Do not pay a formation mill to file the LLC. SOS is $300 ($308 by card). Franchise tax is $0 under $2.65M revenue; still file the free Public Information Report each May 15.
+
 ### Path 2 — permitted cart (after Path 1 works)
 
-| Item | Low | High |
-| --- | --- | --- |
-| Used NSF-style cart with fridge + sinks + tanks | $8,000 | $16,000 |
-| New custom cart | $14,000 | $25,000 |
-| Nemco pineapple corer | $950 | $1,150 |
-| Stick cutter / wedger | $200 | $800 |
-| Thermometers, spare utensils, NSF boards | $200 | $400 |
-| TX DSHS Type II app + inspection | $1,018 | $1,018 |
-| City fire / parking / COI extras | $100 | $600 |
-| Commissary deposit | $200 | $800 |
-| First two weeks produce + packaging | $600 | $1,200 |
-| Branding / wrap / umbrella | $400 | $1,200 |
-| Working capital (slow weather) | $2,000 | $4,000 |
-| **Total (used cart)** | **~$15,000** | **~$27,000** |
+Incremental cash after the pop-up. Does **not** include Path 1.
+
+| Item | Low | Plan | High |
+| --- | --- | --- | --- |
+| Used NSF cart (fridge + hand sink + tanks) | $8,000 | $12,000 | $16,000 |
+| *or* new custom Type II cart | *$14,000* | *$18,500* | *$25,000* |
+| Nemco Easy Pineapple Corer (55775) | $965 | $1,043 | $1,150 |
+| Commercial stick / fry cutter | $180 | $300 | $400 |
+| Melon wedger | $200 | $280 | $400 |
+| Thermometers, spare utensils, NSF boards | $200 | $280 | $400 |
+| 2A10BC fire extinguisher | $40 | $60 | $80 |
+| Branding / wrap / umbrella | $400 | $700 | $1,200 |
+| TX DSHS Type II application | $618 | $618 | $618 |
+| TX DSHS Type II pre-licensing inspection | $400 | $400 | $400 |
+| City fire / water sample / COI extras | $100 | $200 | $600 |
+| Commissary deposit | $200 | $400 | $800 |
+| Opening inventory (10 days × 40 cups × COGS) | $1,132 | $1,280 | $1,400 |
+| Working capital (slow weather) | $2,000 | $3,000 | $4,000 |
+| **Total (used cart)** | **~$14,400** | **~$20,600** | **~$27,400** |
+| **Total (new cart)** | **~$20,400** | **~$27,100** | **~$36,400** |
+
+**All-in from zero** (Path 1 + Path 2 used): about **$16k–$31k**, plan **$23k**.
 
 A food **truck** is the wrong vehicle. You are not cooking. A cart or small trailer with mechanical refrigeration is the unit.
+
+DSHS Type II is $1,018 due at application (2026 published fees, including the Texas.gov surcharge). Routine inspection $400 is prepaid at **renewal**, not at launch. Type III (cook on the unit) is $876 + $500 — do not go there. Confirm Type II by phone before you pay: 512-406-2644. San Antonio fire inspection is only required if the unit has a generator or propane.
+
+### Opening buy at 40 cups × 10 days (400 cups)
+
+Take this list to Zarzamora / SAWPM. Re-price the week you buy. Leftover **cut melon is discarded**; whole fruit can overnight at the commissary.
+
+| Input | Amount | Cost at planning prices |
+| --- | --- | --- |
+| Watermelon | ~17 seedless (~15 lb) @ $5.50 | $92 |
+| Pineapple | ~12 cartons (7-count) @ $20 | $228 |
+| Mango (Kent) | ~17 flats (4 kg, ~8 fruit) @ $12 | $200 |
+| Cucumber | ~134 each @ $0.80 | $108 |
+| Jícama | ~72 lb whole @ $1.50/lb | $108 |
+| Lime | 100 fruit @ $0.45 | $44 |
+| Waste / trim buffer (15% on fruit) | — | $117 |
+| Tajín + chamoy | bulk | $60 |
+| Cup + lid + fork | 400 sets | $112 |
+| Ice / napkin share | — | $32 |
+| **Opening buy** | | **~$1,100** ($1,280 at $3.20 planning COGS) |
+
+One selling day at 40 cups is about **$128** of fruit and packing. That is the cash to take to the terminal at 5:30 a.m., not a warehouse order.
+
+### Do not buy at launch
+
+- A food truck
+- An Alibaba cube/chip slicer
+- A custom mango jig or NSF listing (prototype $2k–$6k; listing $15k+ — after the cart is profitable)
+- Coconut tools
+- A residential fridge on the cart
+- Downtown CCDO / park permits before a weekday lunch pad is proven
 
 ---
 
