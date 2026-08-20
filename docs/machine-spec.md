@@ -27,39 +27,47 @@ Industrial peelers (6-in-1 mango/pineapple lines, 300 kg/h slicers from export c
 
 ## 2. Buy now (off the shelf)
 
-Launch with **lever tools**, not a custom build.
+Launch with **lever tools**, not a custom build. Street prices 20 Aug 2026. Visual layout: [visual-mockup.md](visual-mockup.md).
 
-### Pineapple — solved
+### Pineapple — solved (skin + core + spears)
 
-**Nemco Easy Pineapple Corer/Peeler** (models 55775 / 55775-1)
+**Skin/core:** Nemco Easy Pineapple Corer/Peeler **55775** (3-1/2") or **55775-1** (4"). One pull: peel + core. NSF, USA, stainless / cast aluminum, suction feet, disassembles for wash. **$1,043** at WebstaurantStore. Lives at the **commissary**.
 
-- One pull: peel + core
-- NSF, made in USA, stainless / cast aluminum
-- Disassembles for wash
-- Street price **about $965–$1,150** (Aug 2026)
-- Suction-cup countertop. Lives at the **commissary**, not bouncing on the cart
+The 3-1/2" model matches typical 7-count cartons. Buy 4" only if SAWPM fruit is consistently large.
 
-This is the single best purchase on the list. Pineapple by hand is slow, wasteful, and ugly.
+**Spears:** Stand the peeled cylinder, trim to 4–5", push through **Nemco Easy FryKutter 55450-3** (1/2" square, NSF, **$417**). 3/8" looks like fries. 1/4" is a grocery cup. Do not use a dicer blade.
 
-### Watermelon — mostly solved
+**If capital is tight:** Cancan TBP-801 pineapple peeler, **$625** at Tribest. Four blade diameters, grocery-store pattern. Weaker NSF story for a Texas plan review than Nemco. Tellier EA is NSF and dumps juice into a hotel pan, but **$1,205–$1,249** and 40 lb — more kitchen than cart.
 
-- Commercial **wedger** (Nemco Easy Wedger class) for triangles
-- Then a **stick/fry cutter** for spears, *or* a large chef’s knife through the wedge (still faster than starting from a whole melon)
-- Wash the whole melon in the commissary **before** the first cut (FDA fresh-cut guidance: rind is the contamination path)
+This is still the single best purchase on the list. Pineapple by hand is slow, wasteful, and ugly.
 
-### Cucumber and jícama — solved
+### Watermelon — knife for skin, cutter optional for spears
 
-- Peel (Y-peeler or commissary peeler)
-- Push through a **3/8" or 1/2" stick cutter** (restaurant french-fry / vegetable cutter, NSF)
-- Jícama is dense; a cheap home fry cutter will flex. Buy the commercial one
+**Skin:** There is no good cart-scale watermelon peeler. Industrial lines (ABL WML5 slicer + chunker) are factories: camera-guided, ~45% claimed yield, wrong power, wrong sanitation story. A wedger (Nemco 55450-4, Cancan melon cutter) leaves **rind on**. Wrong product.
+
+National Watermelon Promotion Board / OSU Food Innovation Center: wash the whole melon, cut the ends, follow the white/red line, rind off, then disks. About **2.5–3 minutes**, **60–70% edible yield** on 45- and 60-count fruit. Tool: **Victorinox Fibrox 12" chef** 5.2003.31-X2, NSF, **$83**. A 12" wavy slicer ($64) is easier on the rind and worse on clean spear faces.
+
+**Spears:** Cut rind-off slabs to 4–5" and push through the same 1/2" FryKutter, *or* knife the slabs if the grid crushes and the melon weeps. Crush is the failure mode — weeping melon looks old in 20 minutes.
+
+### Cucumber — Y-peeler, then FryKutter
+
+**Skin:** NSF Y-peeler (Dexter-Russell 91500 or Winco VP-300 straight; VP-301 serrated if the skin is waxy). **$6–12**. Buy two. Volume at 80 cups is ~27 cukes. Louis Tellier HS521 stand peeler (~$260, claimed 600/hour) is for a commissary that already has three carts.
+
+**Spears:** Trim to length, 1/2" FryKutter.
+
+### Jícama — same peeler, must use a potato-class cutter
+
+**Skin:** Same Y-peeler or paring knife. Thick papery skin.
+
+**Spears:** Nemco FryKutter 1/2". Jícama is denser than potato. A home fry cutter flexes. Vollrath Redco InstaCut 3.5 / 5.1 is NSF and cheaper (~$285–$340) but the spec says **not for hard roots** (carrots, sweet potato). Do not put jícama through it.
 
 ### Mango — not solved
 
-Home “mango splitters” assume a small, centered pit. Ataulfo / honey mangoes are kinder. Kent / Tommy Atkins (what the terminal actually has) are larger and the pit wanders.
+Home splitters (OXO ~$16) assume a small, centered pit. Ataulfo / honey mangoes are kinder. Kent / Tommy Atkins (what the terminal actually has) are larger and the pit wanders. Factory peel/pit/strip lines (Fengxiang, Havery, Gondor) run 1,000–2,200 fruit/hour on 220V. Wrong customer.
 
 Launch method:
 
-1. Cheeks off with a knife
+1. Cheeks off with the 12" or an 8" chef
 2. Score the cheek in the skin, invert, slice off spears
   or
 3. Cheek, then a small jig that holds the cheek skin-down and a grid of blades pushes spears out
@@ -69,6 +77,16 @@ That jig is the custom project. Until it exists, mango is a **knife fruit**. Lim
 ### Coconut — out of scope
 
 Vendors in LA call coconut the hardest fruit. Machete energy, shell debris, injury. Skip until the cart is bored.
+
+### Launch kit
+
+| Item | Street (Aug 2026) | Where |
+| --- | --- | --- |
+| Nemco 55775 pineapple corer/peeler | $1,043 | Commissary |
+| Nemco 55450-3 Easy FryKutter 1/2" | $417 | Commissary; optional second on the cart |
+| Victorinox 12" Fibrox chef | $83 | Both |
+| NSF Y-peeler × 2 | ~$20 | Commissary |
+| **Total** | **~$1,560** | After the pop-up. Days 1–30: $20 hand corer + knife. |
 
 ---
 

@@ -60,8 +60,22 @@ Research compiled August 2026. Links were live at the time of writing.
 
 ## Equipment
 
-- Nemco Easy Pineapple Corer/Peeler. https://nemco.com/catalog/easy-pineapple-corer-peeler/
-- WebstaurantStore / Burkett street pricing ~$1,043 (Aug 2026). https://www.webstaurantstore.com/nemco-55775-easy-pineapple-corer-peeler-3-1-2/59155775.html
+- Nemco Easy Pineapple Corer/Peeler (55775 / 55775-1). https://nemco.com/catalog/easy-pineapple-corer-peeler/
+- WebstaurantStore, Nemco 55775, **$1,043.35** (20 Aug 2026). https://www.webstaurantstore.com/nemco-55775-easy-pineapple-corer-peeler-3-1-2/59155775.html
+- WebstaurantStore, Nemco 55775-1 4". https://www.webstaurantstore.com/nemco-55775-1-easy-pineapple-corer-peeler-4/591557751.html
+- Nemco Easy FryKutter (55450 series: 1/4", 3/8", 1/2", wedger kits). https://nemco.com/catalog/easy-frykutter/
+- WebstaurantStore, Nemco 55450-2 3/8" FryKutter **$416.90**; 55450-4 4-section wedger **$469.15**. 55450-3 1/2" listed in the same family ~$417. https://www.webstaurantstore.com/nemco-55450-2-easy-frykutter-3-8-french-fry-cutter/591N554502.html
+- Cancan TBP-801 pineapple peeler, **$625**, Tribest US. Four blade diameters. https://tribest.com/products/cancan-pineapple-peeler-801
+- Cancan 0801 specs (Turkey). https://cancan.com.tr/en/all-products/pineapple-peeler-machine/
+- Tellier EA pineapple corer/peeler 3-1/2", NSF, **$1,249** Webstaurant / **$1,205.95** FoodServiceDirect. https://www.webstaurantstore.com/tellier-ea-pineapple-corer-peeler-3-1-2/980EA.html
+- Vollrath Redco InstaCut 3.5 — NSF, pop-in blades; **not for hard roots** (carrots, sweet potato). https://www.vollrathfoodservice.com/products/countertop-equipment/food-preparation-equipment/manual-food-processors/insta-cut-3-5-corer-dicer-wedger
+- Vollrath InstaCut 5.1 1/2" dicer, 5" opening, **$340.20**. Same hard-root limit. https://www.webstaurantstore.com/vollrath-55459-instacut-5-1-1-2-vegetable-dicer/92255459.html
+- Louis Tellier HS521 cucumber stand peeler, claimed ~600/hour, ~$260 US. https://www.amazon.com/LOUIS-TELLIER-Standing-Cucumber-Stainless/dp/B004D2735Q
+- Dexter-Russell NSF Y-peeler 91500. https://www.webstaurantstore.com/dexter-russell-91500-basics-y-swiss-peeler/21091500.html
+- Victorinox Fibrox 12" chef 5.2003.31-X2, NSF, **$83**. https://www.webstaurantstore.com/victorinox-47522-12-chef-knife-with-fibrox-handle/35347522.html
+- National Watermelon Promotion Board, foodservice cutting and yield (rind-off method, ~60–70% flesh, ~2.5–3 min). https://www.watermelon.org/audiences/foodservice/cutting-yield/
+- ABL WML5 industrial watermelon slicer/chunker — factory, not a cart. https://www.ablcavezzo.com/fruit-processing-machines/wml5-watermelon-slicer-ts-wm-and-watermelon-chunker-gtf-wm/
+- OXO mango splitter — consumer, small centered pit. https://www.oxo.com/oxo-mango-splitter.html
 
 ## Startup-cost context (use as ranges, not gospel)
 
