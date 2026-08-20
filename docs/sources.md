@@ -31,11 +31,26 @@ Research compiled August 2026. Links were live at the time of writing.
 - Texas DSHS, TCS determination guidance (cut melon pH / aw). https://www.dshs.texas.gov/sites/default/files/foodestablishments/pdf/GuidanceDocs/How-to-determine-if-foods-require-time-and-temperature.pdf
 - Food Safety News, 2023 pre-cut cantaloupe / *Salmonella* recall cascade. https://www.foodsafetynews.com/2023/12/another-company-recalls-pre-cut-cantaloupe-products-because-of-salmonella-outbreak/
 
-## Texas mobile vendors (default first market)
+## Texas mobile vendors and first market
 
 - Texas DSHS, Mobile Food Vendors — statewide license from 1 July 2026, Type I/II/III fees. https://www.dshs.texas.gov/retail-food-establishments/permits-retail-food-establishments/mobile-food-vendors
-- City of Houston, Mobile Food Units — DSHS transition, commissary, commercial equipment. https://www.houstonconsumer.org/services/permits/food-permits/mobile-food-units
-- Dallas County MHHS, MFU packet 2026 — 41°F, sinks, commissary affidavit. https://www.dallascounty.org/Assets/uploads/docs/hhs/public-health/mobile-food-unit/MFUs-Packet-English%202026.pdf
+- Texas DSHS, Mobile Food Vendor Guide (May 2026) — Type II includes pushcarts; CPF exemption checklist; wastewater tank ≥15% larger; private residence cannot be a commissary. https://kvia.com/wp-content/uploads/2026/06/mobile-food-vendor-guide-1.pdf (DSHS PDF as circulated)
+- Texas DSHS, statewide license applications open. https://www.dshs.texas.gov/news-alerts/dshs-now-accepting-applications-statewide-food-truck-license
+- City of San Antonio, Mobile Food Vending — no residential vending, 300 ft from schools, downtown CCDO permit, parks permission. https://www.sa.gov/Directory/Departments/SAMHD/Licenses-Food-Permits/Mobile-Vending-Temporary/Mobile-Food-Vending
+- StreetLegal, Texas commissary costs 2026 — SA $250–$500, Houston $300–$700, Austin $350–$800. https://streetlegal.io/blog/commissary-kitchen-tx
+- City of Houston, Mobile Food Units. https://www.houstonconsumer.org/services/permits/food-permits/mobile-food-units
+- Dallas County MHHS, MFU packet 2026. https://www.dallascounty.org/Assets/uploads/docs/hhs/public-health/mobile-food-unit/MFUs-Packet-English%202026.pdf
+
+## San Antonio / Houston produce
+
+- San Antonio Report, Produce Terminal at 1500 S Zarzamora (1951) and SAWPM as Mexico-trade hub. https://sanantonioreport.org/terminal-market-at-the-heart-and-history-of-sa-wholesale-produce/
+- San Antonio Wholesale Produce Market. https://sawpm.com/
+- Blue Book, Houston Produce Center (~56 acres, Produce Row). https://www.bluebookservices.com/as-houstons-population-surges-produce-demand-booms/
+
+## Texas fruit-cup incumbents (storefronts, not the gym-pad gap)
+
+- Fruteria Los Trejo, San Antonio — vaso de fruta ~$6.50+. https://www.menupix.com/sanantonio/restaurants/380210828/Fruteria-Los-Trejo-San-Antonio-TX
+- Yoyi’s Fruity-Land, San Marcos — fruit cups with chamoy. https://order.yourmenu.com/yoyisfruitland
 
 ## California CMFO (if you launch there)
 

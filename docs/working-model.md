@@ -2,7 +2,7 @@
 
 **Date:** August 2026
 **Status:** research and operating plan
-**Default first market:** Texas Sun Belt (San Antonio / Houston / Austin)
+**First market:** San Antonio (see [first-market.md](first-market.md)). Houston is cart two. Austin is a later high-price site.
 
 ---
 
@@ -146,8 +146,9 @@ Two shifts are possible. One excellent lunch beat is enough to validate.
 
 Buy at a **wholesale produce terminal**, not Costco, once volume is past a test weekend.
 
-- Texas: Houston Produce Center; San Antonio produce houses; Dallas terminal
-- California: LA Wholesale Produce Market
+- San Antonio (cart one): Produce Terminal at 1500 S Zarzamora; SAWPM at 9342 SE Loop 410
+- Houston (cart two): Houston Produce Center, Produce Row
+- California study trip: LA Wholesale Produce Market
 - Florida: Miami terminal
 
 USDA AMS terminal prices (mid-August 2026, example markets):
@@ -198,7 +199,7 @@ Rules are **local**. This section is the pattern, not a permit. Hire a local hea
 
 House Bill 2844 moved mobile food vendor licensing to **Texas DSHS**. One state license replaces per-city health permits for the unit itself. Cities can still control **where** you park, fire inspection, and right-of-way.
 
-Likely class for this cart: **Type II** (TCS food prepared / assembled and served). Confirm with DSHS; cutting melon on a unit can be argued up.
+Likely class for this cart: **Type II**. DSHS lists pushcarts, snow cones, hot dogs, and deli assembly in Type II (food prepared for immediate consumption, including cold holding). Type III is cooking on the unit. Confirm by phone before paying; cutting melon on the cart can still be argued up. Hybrid prep (core at the CPF, finish on the cart) is how you stay Type II.
 
 | Item | 2026 DSHS fee (published) |
 | --- | --- |
@@ -216,9 +217,11 @@ Typical unit requirements (Texas Food Establishment Rules pattern):
 - Commissary / central preparation facility agreement, visited each operating day
 - Commercial equipment only
 
-Texas still requires a **commissary**. Budget **$350–$600/month**.
+HB 2844 added a **commissary exemption checklist**. If the cart fails it, DSHS still requires a Central Preparation Facility. A house is illegal as a CPF. San Antonio Metro Health still cares where you dump tanks and store overnight. **Budget a commissary anyway** ($250–$500/month in SA) — the pineapple corer needs a stainless table even if the exemption later sticks. Details: [first-market.md](first-market.md).
 
-Also needed: LLC or sole prop, EIN, sales tax permit, general liability (aim **$1M**), and whatever the **city** wants for parking on private property vs. public right-of-way. Private property (gym lot, brewery, campus, farmers market) is easier than sidewalk vending.
+Also needed: LLC or sole prop, EIN, sales tax permit, general liability (aim **$1M**), and whatever the **city** wants for parking. Private property (gym lot, brewery, campus, farmers market) is easier than sidewalk vending.
+
+San Antonio extras: no vending from **residential** property; **300 feet from a school** during school hours; downtown needs a CCDO permit (skip it); parks need Parks permission; write restroom access into the host letter.
 
 ### 6.3 California (if you launch there instead)
 
@@ -303,13 +306,13 @@ Do not buy a $15k cart on day one. Prove cups, then buy the box.
 
 ### Days 1–14 — City and paper
 
-- Pick **one** city (default: San Antonio, Houston, or Austin)
+- City is **San Antonio** unless produce or a site letter forces a change ([first-market.md](first-market.md))
 - Form LLC, EIN, sales tax permit
 - Food handler + food manager certs
-- Walk the produce terminal at 6 a.m.
-- Eat at every fruit cart you can find. Time the queue. Note prices and fruit mix
-- Call the health department / DSHS **before** buying equipment. Ask: Type II vs III, commissary list, whether spare utensils replace a 3-comp sink, whether farmers-market booths are a different permit
-- Get two commissary quotes
+- Walk Zarzamora terminal and SAWPM at 6 a.m.
+- Eat at every fruit cart and *frutería* you can find. Time the queue. Note prices and fruit mix
+- Call DSHS (512-406-2644) and San Antonio Metro Health **before** buying equipment. Ask: Type II vs III, CPF exemption vs commissary list, whether spare utensils replace a 3-comp sink, whether farmers-market booths are a different permit
+- Get two commissary quotes from the Metro Health list
 
 ### Days 15–30 — Kitchen test, no cart
 
@@ -347,11 +350,12 @@ The Mexican fruit cart is a real business in the US Sun Belt. It has not become 
 
 A working model for “make this work in the States” is:
 
-1. **Hybrid prep** (commissary wash/core + cart finish)
-2. **NSF lever tools now**, mango jig later
-3. **Private-property lunch sites** in a hot city
-4. **$10 cup, ~$3.20 COGS**, discard leftover melon
-5. **Texas statewide MFV license** as the first regulatory on-ramp
-6. **Pop-up before cart** so the expensive metal is earned
+1. **San Antonio first** (produce + cheap commissary; Houston later)
+2. **Hybrid prep** (commissary wash/core + cart finish)
+3. **NSF lever tools now**, mango jig later
+4. **Private-property lunch sites** — gyms, hospitals, campuses, not sidewalks
+5. **$10 cup, ~$3.20 COGS**, discard leftover melon
+6. **Texas DSHS Type II** as the license; city rules for parking
+7. **Pop-up before cart** so the expensive metal is earned
 
 That is enough to start. The 90-day plan is the experiment. The machine is an accelerator, not the business.

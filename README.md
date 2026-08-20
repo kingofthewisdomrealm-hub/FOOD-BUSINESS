@@ -2,7 +2,7 @@
 
 Bring the Mexican **fruta picada** cart to the United States as a legal, repeatable business: fresh-cut tropical fruit in a cup, finished with lime, chile-lime salt, and chamoy.
 
-This repo is the research and operating plan, not a software product.
+This repo is the research and operating plan, not a software product. First cart: **San Antonio**.
 
 ## The idea
 
@@ -13,15 +13,16 @@ The bottleneck is not demand. It is **prep skill, food-code compliance, and loca
 ## Read this first
 
 1. [Working model](docs/working-model.md) — opportunity, product, operations, legal, go-to-market, 90-day plan
-2. [Unit economics](docs/unit-economics.md) — cup cost, daily P&L, startup budget
-3. [Machine spec](docs/machine-spec.md) — buy now vs. invent later
-4. [Sources](docs/sources.md) — research citations
+2. [First market](docs/first-market.md) — why San Antonio, not Houston or Austin, for cart one
+3. [Unit economics](docs/unit-economics.md) — cup cost, daily P&L, startup budget
+4. [Machine spec](docs/machine-spec.md) — buy now vs. invent later
+5. [Sources](docs/sources.md) — research citations
 
 ## Working assumptions (August 2026)
 
 | Item | Assumption |
 | --- | --- |
-| First market | Texas Sun Belt (San Antonio, Houston, or Austin) |
+| First market | San Antonio (Houston = cart two, Austin = later high-price site) |
 | Product | 16 oz mixed-fruit cup, cut fresh, lime + chile-lime + optional chamoy |
 | Price | $10 baseline ($8 small / $12 large) |
 | Cup COGS | about $3.20 |
@@ -29,7 +30,7 @@ The bottleneck is not demand. It is **prep skill, food-code compliance, and loca
 | Launch path | commissary pop-up first, permitted cart second |
 | Capital to a legal cart | $15,000–$30,000 |
 
-Texas is the default first market because of year-round heat, a direct produce pipeline from Mexico, and the statewide mobile-food-vendor license that took effect **1 July 2026**. Swap the city and re-run permits; the product and unit economics stay the same.
+San Antonio wins cart one on produce (Zarzamora terminal + SAWPM on Loop 410) and commissary cost (~$250–$500/month). Texas DSHS Type II statewide licensing started **1 July 2026**; the city still controls where you park. Swap the city later; the cup and the math stay the same.
 
 ## What this is not
 
@@ -40,4 +41,4 @@ Texas is the default first market because of year-round heat, a direct produce p
 
 ## Status
 
-Research and plan, August 2026. Next step: pick a city and run the 90-day validation in `docs/working-model.md`.
+Research and plan, August 2026. Next step: run the San Antonio 90-day validation in `docs/first-market.md`.

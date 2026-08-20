@@ -44,7 +44,7 @@ Fixed monthly cash (one cart, conservative):
 
 | Item | Monthly |
 | --- | --- |
-| Commissary | $450 |
+| Commissary (San Antonio range $250–$500) | $450 |
 | Permits / inspection amortized | $100 |
 | Insurance | $120 |
 | Fuel + generator/battery + ice | $250 |
